@@ -1,0 +1,221 @@
+{
+  "site": {
+    "title": "VCCT | Varanasi Corporate Cricket Trust",
+    "description": "VCCT is dedicated to promoting a professional, transparent, and inclusive corporate cricket culture in Varanasi.",
+    "heroText": "The trust organizes tournaments that foster networking, fitness, and sportsmanship among working professionals through identity-based corporate cricket.",
+    "stats": ["10+ Teams", "5+ Seasons", "100% Transparency", "Community-first Values"]
+  },
+  "navigation": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "About", "href": "about.html" },
+    { "label": "Organization", "href": "organization.html" },
+    { "label": "Tournaments", "href": "tournaments.html" },
+    { "label": "Teams", "href": "teams.html" },
+    { "label": "Players", "href": "players.html" },
+    { "label": "Gallery", "href": "gallery.html" },
+    { "label": "Rules", "href": "rules.html" },
+    { "label": "Join Us", "href": "join.html" }
+  ],
+  "about": [
+    {
+      "title": "Our Story",
+      "content": "VCCT was created to bring working professionals in Varanasi together through sport, mentorship, and healthy competition. The trust believes that cricket should be played with identity, dignity, and fairness."
+    },
+    {
+      "title": "Why VCCT",
+      "content": "Every tournament is designed to balance competitiveness with transparency. Teams represent real identities, players are verified, and the spirit of the game remains central."
+    },
+    {
+      "title": "Mission",
+      "content": "To promote corporate cricket as a powerful tool for team bonding, professional networking, fitness, and community pride in Varanasi."
+    },
+    {
+      "title": "Vision",
+      "content": "To become the most trusted platform for identity-based corporate cricket in Eastern Uttar Pradesh and beyond."
+    },
+    {
+      "title": "Core Values",
+      "content": "Fair Competition, One Identity, Transparency, Respect, Sportsmanship, Team Bonding."
+    }
+  ],
+  "organization": [
+    { "name": "Founder", "role": "Vision & Legacy", "bio": "The founding architect behind VCCT's identity-based tournament model." },
+    { "name": "President", "role": "Leadership", "bio": "Guides policy, partnerships, and the strategic growth of the trust." },
+    { "name": "Vice President", "role": "Operations", "bio": "Oversees event delivery, stakeholder coordination, and member engagement." },
+    { "name": "Secretary", "role": "Administration", "bio": "Manages communications, registrations, and day-to-day records." },
+    { "name": "Joint Secretary", "role": "Support", "bio": "Supports administrative execution and volunteer coordination." },
+    { "name": "Treasurer", "role": "Finance", "bio": "Handles budgets, sponsorships, and transparent financial planning." },
+    { "name": "Tournament Director", "role": "Competitions", "bio": "Shapes rules, schedules, and tournament operations." },
+    { "name": "Media Head", "role": "Public Relations", "bio": "Leads promotion, content, and community storytelling." },
+    { "name": "Technical Head", "role": "Systems", "bio": "Ensures scoring, logistics, and digital support remain smooth." },
+    { "name": "Umpire Panel", "role": "Match Officials", "bio": "Ensures fair play and rule adherence on the field." },
+    { "name": "Volunteers", "role": "Event Support", "bio": "Power the event logistics, hospitality, and community engagement." }
+  ],
+  "tournaments": [
+    {
+      "name": "Corporate League",
+      "tag": "Season 1",
+      "description": "A professional league for employee-led teams representing recognized organizations.",
+      "schedule": "Weekend matches with a full round-robin format and knockout finals.",
+      "rules": "Eligibility is verified before the tournament and captain declarations are mandatory.",
+      "points": "8 teams, 6 league games, top 4 advance to semis.",
+      "gallery": ["Opening ceremony", "Match highlights", "Award ceremony"],
+      "winners": "TCS Titans",
+      "awards": "Best Batter, Best Bowler, Best All-rounder, Fair Play Trophy"
+    },
+    {
+      "name": "Government Services Cup",
+      "tag": "Open to departments",
+      "description": "A high-energy competition for government and public sector departments.",
+      "schedule": "Hosted in a single-day knockout format for fast-paced participation.",
+      "rules": "All teams must present official department proof during registration.",
+      "points": "16 teams, knockout bracket.",
+      "gallery": ["Opening ceremony", "Special matches", "Closing awards"],
+      "winners": "Railways Warriors",
+      "awards": "Spirit of the Game, Best Captain, Most Valuable Player"
+    },
+    {
+      "name": "Banking Championship",
+      "tag": "Inter-bank showcase",
+      "description": "A festival for banking professionals to play with pride and competitive spirit.",
+      "schedule": "Two-day tournament with league stages and semifinal showdowns.",
+      "rules": "Only players tied to the registered bank entity are eligible.",
+      "points": "10 teams, 2 groups, top 2 from each advance.",
+      "gallery": ["Opening ceremony", "Best match moments", "Presentation night"],
+      "winners": "SBI Challengers",
+      "awards": "Champion Trophy, Rising Star, Team Discipline Award"
+    }
+  ],
+  "teams": [
+    {
+      "id": "tcs",
+      "name": "TCS Titans",
+      "company": "Tata Consultancy Services",
+      "description": "A disciplined unit with balanced batting and sharp fielding.",
+      "captain": "Arjun Mishra",
+      "viceCaptain": "Riya Sharma",
+      "jersey": "Royal Blue / White",
+      "stats": "Wins: 6, Losses: 2, NRR: 1.31",
+      "players": [
+        { "name": "Arjun Mishra", "role": "Captain", "batting": "Right-handed top-order", "bowling": "Off-spin" },
+        { "name": "Riya Sharma", "role": "Vice Captain", "batting": "Left-handed middle-order", "bowling": "Leg-spin" },
+        { "name": "Vikram Singh", "role": "All-rounder", "batting": "Right-handed", "bowling": "Medium pace" },
+        { "name": "Ananya Rao", "role": "Wicket-keeper", "batting": "Right-handed", "bowling": "N/A" },
+        { "name": "Karan Bhatia", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
+      ],
+      "previousSeasons": ["Season 1 - Finalists", "Season 2 - Semi-finalists"]
+    },
+    {
+      "id": "infosys",
+      "name": "Infosys Warriors",
+      "company": "Infosys",
+      "description": "Known for strong all-round depth and calm leadership under pressure.",
+      "captain": "Nishant Verma",
+      "viceCaptain": "Megha Joshi",
+      "jersey": "Maroon / Gold",
+      "stats": "Wins: 5, Losses: 3, NRR: 1.08",
+      "players": [
+        { "name": "Nishant Verma", "role": "Captain", "batting": "Right-handed opener", "bowling": "Medium pace" },
+        { "name": "Megha Joshi", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Off-spin" },
+        { "name": "Saurabh Kumar", "role": "Top-order", "batting": "Right-handed", "bowling": "None" },
+        { "name": "Pooja Menon", "role": "Bowler", "batting": "Lower-order", "bowling": "Spin" },
+        { "name": "Aman Sethi", "role": "All-rounder", "batting": "Middle-order", "bowling": "Fast-medium" }
+      ],
+      "previousSeasons": ["Season 1 - Champions", "Season 2 - Quarter-finalists"]
+    },
+    {
+      "id": "capgemini",
+      "name": "Capgemini Royals",
+      "company": "Capgemini",
+      "description": "A charismatic team with bold batting and dependable bowling.",
+      "captain": "Rahul Kanaujia",
+      "viceCaptain": "Swati Singh",
+      "jersey": "Purple / Silver",
+      "stats": "Wins: 4, Losses: 4, NRR: 0.94",
+      "players": [
+        { "name": "Rahul Kanaujia", "role": "Captain", "batting": "Right-handed hitter", "bowling": "Medium pace" },
+        { "name": "Swati Singh", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Spin" },
+        { "name": "Deepak Yadav", "role": "Top-order", "batting": "Left-handed", "bowling": "None" },
+        { "name": "Mansi Dubey", "role": "All-rounder", "batting": "Middle-order", "bowling": "Leg-spin" },
+        { "name": "Harsh Vardhan", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
+      ],
+      "previousSeasons": ["Season 2 - Finalists"]
+    }
+  ],
+  "players": [
+    {
+      "name": "Arjun Mishra",
+      "company": "TCS",
+      "role": "Captain",
+      "batting": "Right-handed top-order batter",
+      "bowling": "Off-spin"
+    },
+    {
+      "name": "Riya Sharma",
+      "company": "TCS",
+      "role": "Vice Captain",
+      "batting": "Left-handed middle-order batter",
+      "bowling": "Leg-spin"
+    },
+    {
+      "name": "Nishant Verma",
+      "company": "Infosys",
+      "role": "Captain",
+      "batting": "Right-handed opener",
+      "bowling": "Medium pace"
+    },
+    {
+      "name": "Megha Joshi",
+      "company": "Infosys",
+      "role": "Vice Captain",
+      "batting": "Right-handed all-rounder",
+      "bowling": "Off-spin"
+    }
+  ],
+  "gallery": {
+    "photos": [
+      { "title": "Opening Ceremony", "caption": "A warm welcome to all participating teams." },
+      { "title": "On-Field Action", "caption": "Fast-paced competition and sharp fielding." },
+      { "title": "Awards Night", "caption": "Celebrating sportsmanship and fair play." }
+    ],
+    "videos": [
+      { "title": "Match Highlights", "caption": "Short highlights from the latest league fixture." },
+      { "title": "Community Message", "caption": "VCCT's leaders on the future of corporate cricket." }
+    ]
+  },
+  "rules": [
+    {
+      "title": "Tournament Rules",
+      "content": "VCCT tournaments follow clear eligibility, match conduct, and fair play rules designed for corporate cricket." 
+    },
+    {
+      "title": "Player Eligibility",
+      "content": "All players must belong genuinely to the organization they represent and provide acceptable proof such as employee ID, appointment letter or official email ID."
+    },
+    {
+      "title": "Code of Conduct",
+      "content": "Players, officials, and teams must maintain respect, sportsmanship, and transparency at all times. Abusive behavior or misconduct may result in disqualification."
+    },
+    {
+      "title": "Umpire Rules",
+      "content": "The umpire panel has final authority on the field. Teams must cooperate with officials and respect decisions."
+    },
+    {
+      "title": "Dispute Resolution",
+      "content": "All protests must be submitted in writing with supporting evidence. The Tournament Committee decision is final and binding."
+    },
+    {
+      "title": "Rain Rules",
+      "content": "Matches affected by weather will follow standard revisions and revised targets as per the tournament format."
+    },
+    {
+      "title": "Player Transfer Rules",
+      "content": "Transfers or replacements are allowed only when the new player satisfies the original eligibility criteria of the team."
+    }
+  ],
+  "join": {
+    "title": "Join VCCT",
+    "description": "Register a team or express interest to participate in the next corporate cricket tournament. We welcome companies, departments, institutions, and registered groups.",
+    "contact": "Email: info@vcct.in | Phone: +91-XXXXXXXXXX"
+  }
+}

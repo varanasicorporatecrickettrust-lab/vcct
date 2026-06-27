@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Arjun Mishra",
+    "company": "TCS",
+    "role": "Captain",
+    "batting": "Right-handed top-order batter",
+    "bowling": "Off-spin"
+  },
+  {
+    "name": "Riya Sharma",
+    "company": "TCS",
+    "role": "Vice Captain",
+    "batting": "Left-handed middle-order batter",
+    "bowling": "Leg-spin"
+  },
+  {
+    "name": "Nishant Verma",
+    "company": "Infosys",
+    "role": "Captain",
+    "batting": "Right-handed opener",
+    "bowling": "Medium pace"
+  },
+  {
+    "name": "Megha Joshi",
+    "company": "Infosys",
+    "role": "Vice Captain",
+    "batting": "Right-handed all-rounder",
+    "bowling": "Off-spin"
+  }
+]

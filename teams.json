@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tcs",
+    "name": "TCS Titans",
+    "company": "Tata Consultancy Services",
+    "description": "A disciplined unit with balanced batting and sharp fielding.",
+    "captain": "Arjun Mishra",
+    "viceCaptain": "Riya Sharma",
+    "jersey": "Royal Blue / White",
+    "stats": "Wins: 6, Losses: 2, NRR: 1.31",
+    "players": [
+      { "name": "Arjun Mishra", "role": "Captain", "batting": "Right-handed top-order", "bowling": "Off-spin" },
+      { "name": "Riya Sharma", "role": "Vice Captain", "batting": "Left-handed middle-order", "bowling": "Leg-spin" },
+      { "name": "Vikram Singh", "role": "All-rounder", "batting": "Right-handed", "bowling": "Medium pace" },
+      { "name": "Ananya Rao", "role": "Wicket-keeper", "batting": "Right-handed", "bowling": "N/A" },
+      { "name": "Karan Bhatia", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
+    ],
+    "previousSeasons": ["Season 1 - Finalists", "Season 2 - Semi-finalists"]
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys Warriors",
+    "company": "Infosys",
+    "description": "Known for strong all-round depth and calm leadership under pressure.",
+    "captain": "Nishant Verma",
+    "viceCaptain": "Megha Joshi",
+    "jersey": "Maroon / Gold",
+    "stats": "Wins: 5, Losses: 3, NRR: 1.08",
+    "players": [
+      { "name": "Nishant Verma", "role": "Captain", "batting": "Right-handed opener", "bowling": "Medium pace" },
+      { "name": "Megha Joshi", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Off-spin" },
+      { "name": "Saurabh Kumar", "role": "Top-order", "batting": "Right-handed", "bowling": "None" },
+      { "name": "Pooja Menon", "role": "Bowler", "batting": "Lower-order", "bowling": "Spin" },
+      { "name": "Aman Sethi", "role": "All-rounder", "batting": "Middle-order", "bowling": "Fast-medium" }
+    ],
+    "previousSeasons": ["Season 1 - Champions", "Season 2 - Quarter-finalists"]
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini Royals",
+    "company": "Capgemini",
+    "description": "A charismatic team with bold batting and dependable bowling.",
+    "captain": "Rahul Kanaujia",
+    "viceCaptain": "Swati Singh",
+    "jersey": "Purple / Silver",
+    "stats": "Wins: 4, Losses: 4, NRR: 0.94",
+    "players": [
+      { "name": "Rahul Kanaujia", "role": "Captain", "batting": "Right-handed hitter", "bowling": "Medium pace" },
+      { "name": "Swati Singh", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Spin" },
+      { "name": "Deepak Yadav", "role": "Top-order", "batting": "Left-handed", "bowling": "None" },
+      { "name": "Mansi Dubey", "role": "All-rounder", "batting": "Middle-order", "bowling": "Leg-spin" },
+      { "name": "Harsh Vardhan", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
+    ],
+    "previousSeasons": ["Season 2 - Finalists"]
+  }
+]
