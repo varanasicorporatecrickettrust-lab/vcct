@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "VCCT | Varanasi Corporate Cricket Trust",
-    "description": "VCCT is dedicated to promoting a professional, transparent, and inclusive corporate cricket culture in Varanasi.",
-    "heroText": "The trust organizes tournaments that foster networking, fitness, and sportsmanship among working professionals through identity-based corporate cricket.",
+    "title": "VCCA | Varanasi Corporate Cricket Authority",
+    "description": "VCCA is dedicated to promoting a professional, transparent, and inclusive corporate cricket culture in Varanasi.",
+    "heroText": "The authority organizes tournaments that foster networking, fitness, and sportsmanship among working professionals through identity-based corporate cricket.",
     "stats": ["10+ Teams", "5+ Seasons", "100% Transparency", "Community-first Values"]
   },
   "navigation": [
@@ -19,10 +19,10 @@
   "about": [
     {
       "title": "Our Story",
-      "content": "VCCT was created to bring working professionals in Varanasi together through sport, mentorship, and healthy competition. The trust believes that cricket should be played with identity, dignity, and fairness."
+      "content": "VCCA was created to bring working professionals in Varanasi together through sport, mentorship, and healthy competition. The authority believes that cricket should be played with identity, dignity, and fairness."
     },
     {
-      "title": "Why VCCT",
+      "title": "Why VCCA",
       "content": "Every tournament is designed to balance competitiveness with transparency. Teams represent real identities, players are verified, and the spirit of the game remains central."
     },
     {
@@ -39,7 +39,7 @@
     }
   ],
   "organization": [
-    { "name": "Founder", "role": "Vision & Legacy", "bio": "The founding architect behind VCCT's identity-based tournament model." },
+    { "name": "Founder", "role": "Vision & Legacy", "bio": "The founding architect behind VCCA's identity-based tournament model." },
     { "name": "President", "role": "Leadership", "bio": "Guides policy, partnerships, and the strategic growth of the trust." },
     { "name": "Vice President", "role": "Operations", "bio": "Oversees event delivery, stakeholder coordination, and member engagement." },
     { "name": "Secretary", "role": "Administration", "bio": "Manages communications, registrations, and day-to-day records." },
@@ -180,13 +180,13 @@
     ],
     "videos": [
       { "title": "Match Highlights", "caption": "Short highlights from the latest league fixture." },
-      { "title": "Community Message", "caption": "VCCT's leaders on the future of corporate cricket." }
+      { "title": "Community Message", "caption": "VCCA's leaders on the future of corporate cricket." }
     ]
   },
   "rules": [
     {
       "title": "Tournament Rules",
-      "content": "VCCT tournaments follow clear eligibility, match conduct, and fair play rules designed for corporate cricket." 
+      "content": "VCCA tournaments follow clear eligibility, match conduct, and fair play rules designed for corporate cricket." 
     },
     {
       "title": "Player Eligibility",
@@ -214,8 +214,8 @@
     }
   ],
   "join": {
-    "title": "Join VCCT",
+    "title": "Join VCCA",
     "description": "Register a team or express interest to participate in the next corporate cricket tournament. We welcome companies, departments, institutions, and registered groups.",
-    "contact": "Email: info@vcct.in | Phone: +91-XXXXXXXXXX"
+    "contact": "Email: info@vcca.in | Phone: +91-XXXXXXXXXX"
   }
 }

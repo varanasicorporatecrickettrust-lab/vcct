@@ -1,35 +1,28 @@
 [
   {
-    "name": "Corporate League",
-    "tag": "Season 1",
+    "name": "Varanasi Corporate Cricket Trust",
+    "tag": "Season 1 ",
     "description": "A professional league for employee-led teams representing recognized organizations.",
+    "date": "June 15 - July 10, 2026",
+    "participants": "4 teams",
     "schedule": "Weekend matches with a full round-robin format and knockout finals.",
     "rules": "Eligibility is verified before the tournament and captain declarations are mandatory.",
-    "points": "8 teams, 6 league games, top 4 advance to semis.",
+    "points": "4 teams, 12 league games, top 2 advance to finals.",
     "gallery": ["Opening ceremony", "Match highlights", "Award ceremony"],
-    "winners": "TCS Titans",
+    "winners": "--",
     "awards": "Best Batter, Best Bowler, Best All-rounder, Fair Play Trophy"
   },
   {
-    "name": "Government Services Cup",
-    "tag": "Open to departments",
-    "description": "A high-energy competition for government and public sector departments.",
-    "schedule": "Hosted in a single-day knockout format for fast-paced participation.",
-    "rules": "All teams must present official department proof during registration.",
-    "points": "16 teams, knockout bracket.",
-    "gallery": ["Opening ceremony", "Special matches", "Closing awards"],
-    "winners": "Railways Warriors",
-    "awards": "Spirit of the Game, Best Captain, Most Valuable Player"
-  },
-  {
-    "name": "Banking Championship",
-    "tag": "Inter-bank showcase",
-    "description": "A festival for banking professionals to play with pride and competitive spirit.",
-    "schedule": "Two-day tournament with league stages and semifinal showdowns.",
-    "rules": "Only players tied to the registered bank entity are eligible.",
-    "points": "10 teams, 2 groups, top 2 from each advance.",
-    "gallery": ["Opening ceremony", "Best match moments", "Presentation night"],
-    "winners": "SBI Challengers",
-    "awards": "Champion Trophy, Rising Star, Team Discipline Award"
+    "name": "Loading...",
+    "tag": "",
+    "description": "",
+    "date": "",
+    "participants": "",
+    "schedule": "",
+    "rules": "",
+    "points": "",
+    "gallery": [""],
+    "winners": "",
+    "awards": ""
   }
 ]

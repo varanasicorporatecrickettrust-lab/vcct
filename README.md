@@ -1,11 +1,11 @@
-# VCCT Website
+# VCCA Website
 
-This repository contains a static website for the Varanasi Corporate Cricket Trust (VCCT).
+This repository contains a static website for the Varanasi Corporate Cricket Authority (VCCA).
 
 ## Files
 
 - `index.html` — Landing page and hero section.
-- `about.html` — About the trust and core values.
+- `about.html` — About the authority and core values.
 - `organization.html` — Leadership and organizational roles.
 - `tournaments.html` — Tournament details, schedule, and awards.
 - `teams.html` — Team roster previews and profiles.

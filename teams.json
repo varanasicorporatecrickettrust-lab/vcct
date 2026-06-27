@@ -1,56 +1,77 @@
 [
   {
     "id": "tcs",
-    "name": "TCS Titans",
+    "name": "Tata Consultancy Service Varansi",
     "company": "Tata Consultancy Services",
     "description": "A disciplined unit with balanced batting and sharp fielding.",
+    "about": "Tata Consultancy Service Varansi is known for structure, consistency, and calm execution under pressure. The team combines experience with a strong sense of unity and professionalism.",
     "captain": "Arjun Mishra",
     "viceCaptain": "Riya Sharma",
     "jersey": "Royal Blue / White",
-    "stats": "Wins: 6, Losses: 2, NRR: 1.31",
-    "players": [
-      { "name": "Arjun Mishra", "role": "Captain", "batting": "Right-handed top-order", "bowling": "Off-spin" },
-      { "name": "Riya Sharma", "role": "Vice Captain", "batting": "Left-handed middle-order", "bowling": "Leg-spin" },
-      { "name": "Vikram Singh", "role": "All-rounder", "batting": "Right-handed", "bowling": "Medium pace" },
-      { "name": "Ananya Rao", "role": "Wicket-keeper", "batting": "Right-handed", "bowling": "N/A" },
-      { "name": "Karan Bhatia", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
-    ],
+    "form": "Season 3 Contenders",
+    "logoLabel": "TCS",
+    "logoUrl": "https://www.tcs.com/content/dam/global-tcs/en/images/home/tcs-logo-1.svg",
+    "accent": "#0a5f38",
+    "contactPerson": "Aditi Verma",
+    "contactPhone": "+919876543210",
+    "contactWhatsapp": "+919876543210",
+    
     "previousSeasons": ["Season 1 - Finalists", "Season 2 - Semi-finalists"]
   },
   {
-    "id": "infosys",
-    "name": "Infosys Warriors",
-    "company": "Infosys",
+    "id": "gramin-bankers",
+    "name": "Gramin Bankers",
+    "company": "Gramin Bankers",
     "description": "Known for strong all-round depth and calm leadership under pressure.",
+    "about": "Gramin Bankers bring a powerful mix of tactical awareness and athletic balance. Their style is built on sharp fielding, disciplined bowling, and confident middle-order stability.",
     "captain": "Nishant Verma",
     "viceCaptain": "Megha Joshi",
     "jersey": "Maroon / Gold",
-    "stats": "Wins: 5, Losses: 3, NRR: 1.08",
-    "players": [
-      { "name": "Nishant Verma", "role": "Captain", "batting": "Right-handed opener", "bowling": "Medium pace" },
-      { "name": "Megha Joshi", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Off-spin" },
-      { "name": "Saurabh Kumar", "role": "Top-order", "batting": "Right-handed", "bowling": "None" },
-      { "name": "Pooja Menon", "role": "Bowler", "batting": "Lower-order", "bowling": "Spin" },
-      { "name": "Aman Sethi", "role": "All-rounder", "batting": "Middle-order", "bowling": "Fast-medium" }
-    ],
+    "form": "Balanced Core Unit",
+    "logoLabel": "GB",
+    "logoUrl": "",
+    "accent": "#8a2d2d",
+    "contactPerson": "Sanjay Rao",
+    "contactPhone": "+919812345678",
+    "contactWhatsapp": "+919812345678",
+   
     "previousSeasons": ["Season 1 - Champions", "Season 2 - Quarter-finalists"]
   },
   {
-    "id": "capgemini",
-    "name": "Capgemini Royals",
-    "company": "Capgemini",
+    "id": "pnb",
+    "name": "PNB CO Varanasi",
+    "company": "Punjab National Bank",
     "description": "A charismatic team with bold batting and dependable bowling.",
+    "about": "PNB CO Varanasi are known for fearless stroke play and a confident, modern approach to the game. Their squad balances flair with dependable support roles.",
     "captain": "Rahul Kanaujia",
     "viceCaptain": "Swati Singh",
     "jersey": "Purple / Silver",
-    "stats": "Wins: 4, Losses: 4, NRR: 0.94",
-    "players": [
-      { "name": "Rahul Kanaujia", "role": "Captain", "batting": "Right-handed hitter", "bowling": "Medium pace" },
-      { "name": "Swati Singh", "role": "Vice Captain", "batting": "Right-handed all-rounder", "bowling": "Spin" },
-      { "name": "Deepak Yadav", "role": "Top-order", "batting": "Left-handed", "bowling": "None" },
-      { "name": "Mansi Dubey", "role": "All-rounder", "batting": "Middle-order", "bowling": "Leg-spin" },
-      { "name": "Harsh Vardhan", "role": "Bowler", "batting": "Lower-order", "bowling": "Fast-medium" }
-    ],
+    "form": "High-energy Squad",
+    "logoLabel": "PNB",
+    "logoUrl": "",
+    "accent": "#6d4c9e",
+    "contactPerson": "Naina Kapoor",
+    "contactPhone": "+919900112233",
+    "contactWhatsapp": "+919900112233",
+    
     "previousSeasons": ["Season 2 - Finalists"]
+  },
+  {
+    "id": "bob",
+    "name": "BOB Zonal Club",
+    "company": "Bank of Baroda",
+    "description": "A sharp and spirited side that values teamwork, discipline, and attack-minded cricket.",
+    "about": "BOB Zonal Club brings a fresh, energetic style to the tournament with excellent coordination and a strong team-first identity.",
+    "captain": "Vivek Sharma",
+    "viceCaptain": "Priya Nair",
+    "jersey": "Green / Gold",
+    "form": "Emerging Powerhouse",
+    "logoLabel": "BOB",
+    "logoUrl": "",
+    "accent": "#1f6f4a",
+    "contactPerson": "Rohit Singh",
+    "contactPhone": "+919555667788",
+    "contactWhatsapp": "+919555667788",
+    "previousSeasons": ["Season 3 - Group Stage"]
   }
 ]
